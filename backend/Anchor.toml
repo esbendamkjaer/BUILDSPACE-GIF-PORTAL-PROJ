@@ -1,11 +1,11 @@
-[programs.localnet]
-backend = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+backend = "4NFLW2PAgeWw7iC5Q2ZawZYSbGHwMEzicP2oYsqVkxTy"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/esben/.config/solana/id.json"
 
 [scripts]
